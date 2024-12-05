@@ -1,5 +1,5 @@
 
-# BIRD SPECIES CLASSIFICATION with DEEP LEARNING
+# BIRD SPECIES CLASSIFICATION with Inception v3
 **Project Overview**
 
 It is a project that uses transfer learning to predict 525 classes belonging to bird species. Data set of 525 bird species.84635 training images,2625  test images(5 images per species) and 2625 validation images(5 images per species). This is a very high quality dataset where there is only one bird in each image and the bird typically takes up at least 50% of the pixels in the image. As a result even a moderatly complex model will achieve training and test accuracies in the mid 90% range.
